@@ -1,3 +1,5 @@
+[![Python application test with Github Actions](https://github.com/leandrohvieira/python-devops/actions/workflows/devops.yml/badge.svg)](https://github.com/leandrohvieira/python-devops/actions/workflows/devops.yml)
+
 # python-devops
 This is a new prepository for Python DevOps.
 
